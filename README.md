@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sharath4444&label=Profile%20views&color=0e75b6&style=flat" alt="sharath4444" /> </p>
 
-- 🌱 I’m currently learning **Frontend Development**
+- 🌱 I’m currently learning **Backend Development**
 
 - 📫 How to reach me **mankalasharathchandra4@gmail.com**
 
