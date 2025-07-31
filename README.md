@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Mankala Sharathchandra</h1>
-<h3 align="center">A passionate frontend developer.</h3>
+<h1 align="center">Hi 👋, My Name is Mankala Sharathchandra</h1>
+<h3 align="center">A passionate Web developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sharath4444&label=Profile%20views&color=0e75b6&style=flat" alt="sharath4444" /> </p>
 
-- 🌱 I’m currently learning **Fullstack web Development**
+- 🌱 I’m currently learning **Devops**
 
 - 📫 How to reach me **mankalasharathchandra4@gmail.com**
 
